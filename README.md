@@ -179,23 +179,19 @@ Based on the dashboard analysis, the project recommends:
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
 ```text
 British-Airways-Passenger-Satisfaction-Analysis/
 │
 ├── README.md
 │
-├── Dashboard/
-│   └── British_Airways_Dashboard.pbix
-│
 ├── Dataset/
 │   ├── ba_reviews.csv
 │   └── Countries.csv
 │
-├── Screenshots/
-│   └── dashboard.png
-│
-└── Documentation/
-    └── Project_Report.pdf
+└── Dashboard/
+    └── British_Airways_Dashboard.pbix
 ```
 
 ## 📌 Project Type
