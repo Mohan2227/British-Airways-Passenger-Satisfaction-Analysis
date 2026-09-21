@@ -175,7 +175,8 @@ Based on the dashboard analysis, the project recommends:
 
 ## 📸 Dashboard Preview
 
-![British Airways Passenger Satisfaction Dashboard](Screenshots/dashboard.png)
+￼<img width="1682" height="850" alt="image" src="https://github.com/user-attachments/assets/2e2eb756-4d0d-4526-b2dc-52dbc45713bd" />
+
 
 ## 📁 Project Structure
 
